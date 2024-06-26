@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "zipcode": "12345"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "janesmith@example.com",
+    "phone": "234-567-8901",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Othertown",
+      "zipcode": "67890"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "email": "alicej@example.com",
+    "phone": "345-678-9012",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Sometown",
+      "zipcode": "13579"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "username": "bobb",
+    "email": "bobb@example.com",
+    "phone": "456-789-0123",
+    "address": {
+      "street": "101 Maple St",
+      "city": "Anycity",
+      "zipcode": "24680"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "username": "charlied",
+    "email": "charlied@example.com",
+    "phone": "567-890-1234",
+    "address": {
+      "street": "202 Birch St",
+      "city": "Othercity",
+      "zipcode": "35791"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Diana Evans",
+    "username": "dianae",
+    "email": "dianae@example.com",
+    "phone": "678-901-2345",
+    "address": {
+      "street": "303 Cedar St",
+      "city": "Somecity",
+      "zipcode": "46802"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Eve Foster",
+    "username": "evef",
+    "email": "evef@example.com",
+    "phone": "789-012-3456",
+    "address": {
+      "street": "404 Spruce St",
+      "city": "Newtown",
+      "zipcode": "57913"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Frank Green",
+    "username": "frankg",
+    "email": "frankg@example.com",
+    "phone": "890-123-4567",
+    "address": { "street": "505 Elm St", "city": "Oldtown", "zipcode": "68024" }
+  },
+  {
+    "id": 9,
+    "name": "Grace Hall",
+    "username": "graceh",
+    "email": "graceh@example.com",
+    "phone": "901-234-5678",
+    "address": {
+      "street": "606 Willow St",
+      "city": "Newcity",
+      "zipcode": "79135"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Henry Irwin",
+    "username": "henryi",
+    "email": "henryi@example.com",
+    "phone": "012-345-6789",
+    "address": { "street": "707 Ash St", "city": "Oldcity", "zipcode": "80246" }
+  },
+  {
+    "id": "h3ngGq2r8B9NEtFpda9yJA",
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "zipcode": "12345"
+    }
+  },
+  {
+    "id": "igfnqXMRg4auN7RN3v6ca9",
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "zipcode": "12345"
+    }
+  }
+]
